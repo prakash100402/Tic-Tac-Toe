@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="todo">TODO</string>
+    <string name="todo_1">TODO</string>
+    <string name="todo_2">TODO</string>
+    <string name="todo_3">TODO</string>
+    <string name="todo_4">TODO</string>
+    <string name="todo_6">TODO</string>
+    <string name="todo_7">TODO</string>
+    <string name="todo_8">TODO</string>
+    <string name="todo_9">TODO</string>
+    <string name="todo_0">TODO</string>
+    <string name="todo_10">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="play_again">Play Again</string>
+</resources>
